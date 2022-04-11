@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>PROBLEM1</description>
+	<configs>
+		<config category="opl" default="true" name="Configuration 1">
+			<ref name="TD1.mod" type="model">
+			</ref>
+			<ref name="TD1.ops" type="setting">
+			</ref>
+			<ref name="TD1.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
